@@ -74,7 +74,9 @@ def merge_v2(L, start, center, end):
 
 test_list_1 = [6, 5, 3, 1, 8, 7, 2, 4, 9]
 test_list_4 = [3, 44, 38, 5, 47, 15, 36, 26, 27, 2, 46, 4, 19, 50, 48]
-test_list = test_list_1
+test_list_5 = [11, 8, 3, 9, 7, 1, 2, 5]
+test_list_6 = [3, 2, 1]
+test_list = test_list_6
 merge_sort(test_list)
 print(test_list)
 
