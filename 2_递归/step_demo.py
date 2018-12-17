@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 def step_calculate(num):
+    print('step_calculate', num)
     if num == 1:
         return 1
     if num == 2:
